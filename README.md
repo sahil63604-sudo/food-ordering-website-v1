@@ -155,6 +155,15 @@ EMAIL_PASSWORD=
 - Email Notifications
 
 ---
+## 👥 Collaboration
+
+This project was developed collaboratively by two developers as a MERN stack learning project.
+
+**Contributors:**
+- Sahil (Frontend & Backend development)
+- Rathour-lab (Jaskaran Singh) (Frontend & Backend development)
+
+The repository preserves the complete Git history to reflect the collaborative development process.
 
 ## 🤝 Contributing
 
