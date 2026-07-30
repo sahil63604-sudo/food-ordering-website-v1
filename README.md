@@ -138,7 +138,7 @@ Backend requires:
 MONGODB_URI=
 JWT_SECRET=
 EMAIL=
-EMAIL_PASSWORD=
+PASSWORD=
 ```
 
 ---
